@@ -1,5 +1,5 @@
 # Random-Password-Generator
-🔐 Basic Random Password Generator (Python)
+🔐Random Password Generator (Python)
 
 This is a Beginner-level project created as part of the Oasis Infobyte Python Programming Internship.
 The program generates random passwords based on user-selected options such as:
